@@ -1,4 +1,4 @@
-# EmBomber Plus! The origina EmBomer with SMTP relay. [![python](https://img.shields.io/badge/Python-2.7-green.svg?style=style=flat-square)](https://www.python.org/downloads/) ![version](https://img.shields.io/badge/Build-Final-blue.svg) ![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=style=flat-square)
+# EmBomblus! The origina EmBomber with SMTP relay. [![python](https://img.shields.io/badge/Python-2.7-green.svg?style=style=flat-square)](https://www.python.org/downloads/) ![version](https://img.shields.io/badge/Build-Final-blue.svg) ![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=style=flat-square)
 
 Python script for simply sending an email with a payload;)
 
