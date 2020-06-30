@@ -1,12 +1,9 @@
-# EmBombPlus! 
-The original EmBomber with SMTP relay. [![python](https://img.shields.io/badge/Python-2.7-green.svg?style=style=flat-square)](https://www.python.org/downloads/) ![version](https://img.shields.io/badge/Build-Final-blue.svg) ![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=style=flat-square)
+# DaBomb 
+This is my shameless extension of Mazen Elzanaty's EmBombPlus! (https://github.com/MazenElzanaty/EmBomber.git). This is a very useful script for red teaming, penetration testing, research... I'm running out of ideas... lol. I want to put some additions onto the code without messing up Mazen's git repository. So I will just reflect those changes here, then send them over until or if, when, whatever integration is possible.
 
-Python script for simply sending an email with a payload;)
 
-Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=https://twitter.com/MazenElzanaty>Mazen Elzanaty</a>
 
-Some more love by Kirt Cathey.
-
+# As of this code cloning, this is the original announcement:
 ## Features
 - Support Gmail
 - Support Yahoo
