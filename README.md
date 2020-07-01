@@ -31,6 +31,4 @@ python EmBomber.py
 ## Note
 You need to enable less secure apps on Gmail and Yahoo
 
-## Video
-[![Thumbnail](http://i3.ytimg.com/vi/qAnRmA0zWq4/maxresdefault.jpg)](https://www.youtube.com/watch?v=VuCOE8PwJDs)
 
